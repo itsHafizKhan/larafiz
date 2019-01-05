@@ -1,0 +1,2 @@
+# larafiz
+Laravel URL Shortener
